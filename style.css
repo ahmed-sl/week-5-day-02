@@ -1,0 +1,27 @@
+/* body {
+  background-color: white;
+} */
+h1{
+  background: url("images/apple-pie.jpg");
+}
+p{
+  text-align: center;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color:white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background: none;
+  font-size: 170px;
+  transform: translate(-50%, -50%);
+}
+
+.info{
+  margin-left: 480px;
+}
